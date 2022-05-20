@@ -1,10 +1,9 @@
-### Hi there, I am Hassan Ezz 👋
+# Hi there, I am Hassan Ezz 👋
 
 ## 💁‍♂️ About me
 - 👨‍🎓 Computer Science student
 - 🔭 Passionate web developer
-- 💻 I am a competitive programmer mainly at Codeforces, find my profile (here)[https://codeforces.com/hasssanezz]
-- 👯 I’m looking to collaborate on web 
-- 🤔 I’m currently open for: An Intern or a new job opportunity
+- 💻 I am a competitive programmer mainly at Codeforces, you can find my profile <a href="https://codeforces.com/hasssanezz">here</a>
+- 🤔 I’m currently open for an Internship or a new job opportunity
 - 🤓 Always learning new stuff
-- 📫 How to reach me: (facebook)[https://facebook.com/hasssanezz] (linkedin)[https://linkedin.com/in/hasssanezz] (email)[emailto:dhassan98@gmail.com]
+- 📫 How to reach me: <a href="https://facebook.com/hasssanezz">Facebook</a> <a href="https://facebook.com/hasssanezz">LinkedIn</a>
