@@ -39,7 +39,13 @@ As a CS student with a passion for web development, I specialize in building ric
 
 ### Socials
 
-<p align="left"> <a href="https://www.facebook.com/hasssanezz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/hasssanezzz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/hasssanezz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hasssanezz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left">
+<a href="https://linkedin.com/in/hasssanezz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasssanezz" height="30" width="40" /></a>
+<a href="https://fb.com/hasssanezz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hasssanezz" height="30" width="40" /></a>
+<a href="https://instagram.com/hasssanezz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hasssanezz" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/hasssanezz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hasssanezz" height="30" width="40" /></a>
+</p>
+
 
 ### Badges
 
@@ -49,4 +55,4 @@ As a CS student with a passion for web development, I specialize in building ric
   <img src="https://github-readme-stats.vercel.app/api?username=hasssanezzz&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&show_icons=true" alt="hasssanezzz's GitHub stats" />
 </a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasssanezzz&" alt="hasssanezzz" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasssanezzz&show_icons=true&locale=en&layout=compact" alt="hasssanezzz" /></p>
