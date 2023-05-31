@@ -48,3 +48,5 @@ As a CS student with a passion for web development, I specialize in building ric
 <a href="http://www.github.com/hasssanezzz">
   <img src="https://github-readme-stats.vercel.app/api?username=hasssanezzz&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&show_icons=true" alt="hasssanezzz's GitHub stats" />
 </a>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasssanezzz&" alt="hasssanezzz" /></p>
