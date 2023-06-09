@@ -2,7 +2,7 @@
 
 ## Passionate student && software developer
 
-As a CS student with a passion for web development, I specialize in building rich mobile-friendly web applications using React JS. With a strong foundation in computer science and programming, I have successfully completed various projects, many of which are available on my GitHub profile. I am seeking a challenging position where I can utilize my technical skills and contribute to the growth of the organization. Dedicated to staying up to date with the latest advancements in web development, I am eager to collaborate with a dynamic team and take on new challenges with the goal of delivering exceptional results.
+Always building new stuff...
 
 - 🌍 I'm based in Cairo
 - ✉️  You can contact me at [dhassanezz98@gmail.com](mailto:dhassanezz98@gmail.com)
