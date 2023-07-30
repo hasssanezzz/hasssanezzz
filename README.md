@@ -6,7 +6,7 @@ Always building new stuff...
 
 - 🌍 I'm based in Cairo
 - ✉️  You can contact me at [dhassanezz98@gmail.com](mailto:dhassanezz98@gmail.com)
-- 🙄 Looking for internships
+- 🏢 SWE intern @heurolabs
 - 🧠 I'm learning Advanced TypeScript
 
 ![](https://komarev.com/ghpvc/?username=hasssanezzz)
