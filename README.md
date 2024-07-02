@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Hassan Ezz</h1>
 <h3 align="center">A passionate software engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasssanezzz&label=Profile%20views&color=0e75b6&style=flat" alt="hasssanezzz" /> </p>
+You can find me creating elegant frontends, architecting backends, crafting compilers and interpreters, optimizing queries for peak efficiency, and visualizing algorithms to unravel complexities. I consider myself a generalist, deeply in love with low-level topics, and constantly expanding my toolkit.
 
+👇
 <p align="left"> <a href="https://twitter.com/hasnezz" target="blank"><img src="https://img.shields.io/twitter/follow/hasnezz" alt="hasnezz" /></a>
  </p>
 
+- 👷‍♂️ Ex-intern at [Heuro labs](https://heurolabs.com)
 - 🔭 I’m currently working on [writing a interpreter for a new language.](https://github.com/hasssanezzz/nano-compiler)
 - 📫 How to reach me **dhassanezz98@gmail.com** (let's collab)
 - 💬 Ask me about **anything related to technologies I work with :)**
 - 🌱 I’m currently learning **Advanced Go**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasssanezzz&label=Profile%20views&color=0e75b6&style=flat" alt="hasssanezzz" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
