@@ -2,7 +2,7 @@
 <p align="left"> <a href="https://twitter.com/hasnezz" target="blank"><img src="https://img.shields.io/twitter/follow/hasnezz" alt="hasnezz" /></a>
  </p>
 
-- 👷‍♂️ Ex-intern at [Heuro labs](https://heurolabs.com)
+- 👷‍♂️ Ex-intern at [Heuro labs](https://www.linkedin.com/company/heuro-labs)
 - 🔭 I’m currently working on [writing a interpreter for a new language.](https://github.com/hasssanezzz/nano-compiler)
 - 📫 How to reach me **dhassanezz98@gmail.com** (let's collab)
 - 💬 Ask me about **anything related to technologies I work with :)**
