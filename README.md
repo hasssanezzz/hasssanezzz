@@ -3,7 +3,6 @@
  </p>
 
 - 👷‍♂️ Ex-intern at [Heuro labs](https://www.linkedin.com/company/heuro-labs)
-- 🔭 I’m currently working on [writing a interpreter for a new language.](https://github.com/hasssanezzz/nano-compiler)
 - 📫 How to reach me **dhassanezz98@gmail.com** (let's collab)
 - 💬 Ask me about **anything related to technologies I work with :)**
 - 🌱 I’m currently learning **Advanced Go**
