@@ -2,7 +2,7 @@
 <p align="left"> <a href="https://twitter.com/hasnezz" target="blank"><img src="https://img.shields.io/twitter/follow/hasnezz" alt="hasnezz" /></a>
  </p>
 
-- 👷‍♂️ Database engineering intern at [Axiom](https://axiom.co), working on database internals
+- 👷‍♂️ Infrastructure engineer at [Axiom](https://axiom.co)
 - 💼 Ex-intern at [Heuro labs](https://www.linkedin.com/company/heuro-labs)
 - 📫 How to reach me **dhassanezz98@gmail.com** (let's collab)
 - 💬 Ask me about **anything related to technologies I work with :)**
