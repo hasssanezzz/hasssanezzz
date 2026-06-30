@@ -3,8 +3,7 @@
  </p>
 
 - 👷‍♂️ Infrastructure engineer at [Axiom](https://axiom.co)
-- 💼 Ex-intern at [Heuro labs](https://www.linkedin.com/company/heuro-labs)
-- 📫 How to reach me **dhassanezz98@gmail.com** (let's collab)
+- 📫 How to reach me **dhassanezz98@gmail.com**
 - 💬 Ask me about **anything related to technologies I work with :)**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasssanezzz&label=Profile%20views&color=0e75b6&style=flat" alt="hasssanezzz" /> </p>
